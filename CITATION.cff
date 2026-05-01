@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Bu yazılımı kullanıyorsanız lütfen aşağıdaki bilgileri kullanarak atıf yapınız."
+type: software
+title: "Binocular Rivalry Paradigm for Aphantasia Research"
+version: 1.0.0
+date-released: 2026-05-01
+authors:
+  - family-names: Genç
+    given-names: Fatih
+    orcid: https://orcid.org/0000-0002-8827-3550
+    affiliation: "Eskişehir Osmangazi University, Department of Psychology"
+repository-code: https://github.com/TukeOwnz/BR_experiment
+url: https://osf.io/y5dc7/
+license: CC-BY-4.0
+abstract: >
+  A PsychoPy-based binocular rivalry paradigm designed to objectively 
+  measure mental imagery ability in aphantasia research. Uses red-cyan 
+  anaglyph glasses, imagery induction protocol, and Imagery Priming Index 
+  (IPI) as the primary dependent variable. Includes stimulus normalization 
+  pipeline (luminance and RMS contrast matching) and SPSS analysis syntax.
+keywords:
+  - aphantasia
+  - binocular rivalry
+  - mental imagery
+  - anaglyph
+  - PsychoPy
+  - visual perception
+  - imagery priming index
+preferred-citation:
+  type: software
+  title: "Binocular Rivalry Paradigm for Aphantasia Research"
+  authors:
+    - family-names: Genç
+      given-names: Fatih
+      orcid: https://orcid.org/0000-0002-8827-3550
+  year: 2026
+  version: 1.0.0
+  url: https://github.com/TukeOwnz/BR_experiment

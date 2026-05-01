@@ -1,0 +1,26 @@
+# Katılımcı verileri — GitHub'a yükleme
+data/
+
+# KDEF lisanslı görseller — GitHub'a yükleme
+stimuli_normalized/
+stimuli_anaglyph/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# PsychoPy
+*.psyexp
+*.log
+lastrun.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
