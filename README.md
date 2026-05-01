@@ -1,6 +1,7 @@
 # Binocular Rivalry Paradigm for Aphantasia Research
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19958726.svg)](https://doi.org/10.5281/zenodo.19958726)
 [![DOI](https://img.shields.io/badge/OSF-y5dc7-blue)](https://osf.io/y5dc7/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8827--3550-green)](https://orcid.org/0000-0002-8827-3550)
 
@@ -19,7 +20,7 @@ This paradigm was developed as part of a larger study combining:
 
 If you use this paradigm in your research, please cite:
 
-> Genç, F. (2026). *Binocular rivalry paradigm for aphantasia research* (Version 1.0.0) [Software]. GitHub. https://github.com/TukeOwnz/BR_experiment
+> Genç, F. (2026). *Binocular rivalry paradigm for aphantasia research* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.19958726
 
 BibTeX:
 ```bibtex
@@ -28,7 +29,8 @@ BibTeX:
   title     = {Binocular Rivalry Paradigm for Aphantasia Research},
   year      = {2026},
   version   = {1.0.0},
-  url       = {https://github.com/TukeOwnz/BR_experiment},
+  doi       = {10.5281/zenodo.19958726},
+  url       = {https://doi.org/10.5281/zenodo.19958726},
   orcid     = {https://orcid.org/0000-0002-8827-3550},
   osf       = {https://osf.io/y5dc7/}
 }
